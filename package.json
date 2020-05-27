@@ -1,0 +1,28 @@
+{
+  "name": "naming-color",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "naming": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yk2030yk/naming-color.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yk2030yk/naming-color/issues"
+  },
+  "homepage": "https://github.com/yk2030yk/naming-color#readme",
+  "dependencies": {
+    "@types/node": "^14.0.5",
+    "camelcase": "^6.0.0",
+    "color-name-list": "^5.27.0",
+    "nearest-color": "^0.4.4",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.3"
+  }
+}
